@@ -1,4 +1,4 @@
-# Simple_E-commerce_App
+# Simple E-commerce App
 
 This app was made in order to pass a test for the Android Developer position.
 
