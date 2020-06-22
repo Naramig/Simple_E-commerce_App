@@ -3,7 +3,7 @@
 This app was made in order to pass a test for the Android Developer position.
 
 # Task:
-<b>Create a mini application:</b>
+<b>Create a mini application:</b><br>
 <i>List view</i> - products - name, price, img
 <i>Detail view</i> - description of each product - display all data
 <i>Lazy loading</i> - make epp not freeze
