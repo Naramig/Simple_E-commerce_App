@@ -14,3 +14,10 @@ Create price filter
 
 # Info
 The data is in <i>/app/src/main/assets/MOCK_DATA.json</i> 
+
+# Screenshots
+
+<p align="center">
+  <img src="https://github.com/Naramig/Simple_E-commerce_App/blob/master/photo5440847880786128337.jpg" width="350" title="hover text">
+  <img src="https://github.com/Naramig/Simple_E-commerce_App/blob/master/photo5440847880786128338.jpg" width="350" alt="accessibility text">
+</p>
